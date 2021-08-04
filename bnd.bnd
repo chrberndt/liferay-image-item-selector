@@ -1,0 +1,4 @@
+Bundle-Name: liferay-image-item-selector
+Bundle-SymbolicName: com.chberndt.liferay.image.item.selector
+Bundle-Version: 1.0.0
+Web-ContextPath: /liferay-image-item-selector
